@@ -1,4 +1,4 @@
-# "Show me the talent"
+# "Show me your talent"
 
 ## Avaliação
 
@@ -14,6 +14,7 @@ características têm maior importância para nós do que outras.
 ## Extras (Opcional)
 
 - Utilização de ferramentas de planejamento
+- Exemplos de histórias de usuário
 - Prototipação de telas ou wireframes
 
 ## Prazo
@@ -26,5 +27,17 @@ O resultado deve ser enviado por e-mail para alonso@e-comprei.com
 
 # Desafio
 
-Imagine que você foi contratado como PO da Netflix, e recebeu o desafio de analisar a viabilidade e elaborar o planejamento de um novo recurso colocado em pauta a ser implementado como novo recurso do aplicativo.
+Imagine que você foi contratado como PO da Netflix, e recebeu o desafio de analisar a viabilidade e elaborar o planejamento de um novo recurso colocado em pauta a ser implementado no aplicativo.
 A direção da Netflix deseja disponibilizar o serviço de streaming de jogos de futebol ao vivo, pois tem percebido que esta modalidade tem chamado atenção de um público novo segundo estatísticas de mercado, que dificilmente está contido em seu público atual.
+Para isso, foram realizadas entrevistas com 10 usuários da plataforma, considerando algumas hipóteses, que foram mapeadas no documento à seguir:
+
+https://docs.google.com/spreadsheets/d/1KJk7OvlIAidijabti9w2QrQNoPtDFsC6nd4XEhqfvG8/edit?usp=sharing
+
+
+Com base neste documento, elabore um estudo de viabilidade e planejamento de execução para apresentar ao conselho de executivos da Netflix.
+
+## Links de apoio:
+
+https://brasil.uxdesign.cc/16-dicas-para-uma-boa-entrevista-com-o-usu%C3%A1rio-553b477b6e23
+
+https://www.intercom.com/blog/customer-feedback-strategy/
