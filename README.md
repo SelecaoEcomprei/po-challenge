@@ -31,7 +31,7 @@ Imagine que você foi contratado como PO da Netflix, e recebeu o desafio de anal
 A direção da Netflix deseja disponibilizar o serviço de streaming de jogos de futebol ao vivo, pois tem percebido que esta modalidade tem chamado atenção de um público novo segundo estatísticas de mercado, que dificilmente está contido em seu público atual.
 Para isso, foram realizadas entrevistas com 10 usuários da plataforma, considerando algumas hipóteses, que foram mapeadas no documento à seguir:
 
-https://docs.google.com/spreadsheets/d/1KJk7OvlIAidijabti9w2QrQNoPtDFsC6nd4XEhqfvG8/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1v3C9hNkWWXUi_p0AS5A-r8Rt0MBz2TGt66iJYYLAcNc/edit?usp=sharing
 
 
 Com base neste documento, elabore um estudo de viabilidade e planejamento de execução para apresentar ao conselho de executivos da Netflix.
